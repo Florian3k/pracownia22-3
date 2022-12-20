@@ -1,0 +1,13 @@
+main():int
+{
+  a:bool = true
+  b:bool = not a
+  if b {
+    return 1
+  } else {
+    return 0
+  }
+}
+
+//@PRACOWNIA
+//@out Exit code: 0
